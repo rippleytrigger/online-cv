@@ -58,12 +58,12 @@ experiences:
       company: Logoscorp
       details: 
         Worked as a Wordprerss Developer in this institution.
-          - Designed the general layout for wordpress websites.
-          - Used GIT for managing projects.
-          - Used CSS and SASS to build content.
-          - Managed programming languages like CSS and JS.
-          - Offered training to customers of every project related.
-          - Applied SCRUM methology.
+          - Designed the general layout for wordpress websites
+          - Used GIT for managing projects
+          - Used CSS and SASS to build content
+          - Managed programming languages like CSS and JS
+          - Offered training to customers of every project related
+          - Applied SCRUM methology
     - role: Web Developer
       time: 2019-2020
       company: Instituto Universitario De Seguros
@@ -74,10 +74,10 @@ experiences:
       company: Think Different
       details: 
         Worked as a Wordpress Developer for this company.
-            - Establish the layout for Wordpress Websites.
-            - Setting the initial configuration for incoming projects.
-            - Translation of Websites.
-            - Usage of kanban methodology for working environent.
+            - Establish the layout for Wordpress Websites
+            - Setting the initial configuration for incoming projects
+            - Translation of Websites
+            - Usage of kanban methodology for working environent
 skills:
     title: Skills &amp; Proficiency
 
