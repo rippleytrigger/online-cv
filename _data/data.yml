@@ -56,7 +56,7 @@ experiences:
     - role: Jr. Web Developer
       time: 2017 - 2018
       company: Logoscorp
-      details: 
+      details: |
         Worked as a Wordprerss Developer in this institution.
           - Designed the general layout for wordpress websites
           - Used GIT for managing projects
@@ -68,11 +68,11 @@ experiences:
       time: 2019-2020
       company: Instituto Universitario De Seguros
       details: 
-          I did my intership at this institution. 
+        I did my intership at this institution. 
     - role: Wordpress Web Developer
       time: 2018 
       company: Think Different
-      details: 
+      details: |
         Worked as a Wordpress Developer for this company.
             - Establish the layout for Wordpress Websites
             - Setting the initial configuration for incoming projects
@@ -91,8 +91,8 @@ skills:
       - name: HTML5 & CSS
         level: 70%
 
-      - name: Laravel
-        level: 50%
+      - name: Wordpress
+        level: 60%
 
       - name: Relational Databases
         level: 60%
