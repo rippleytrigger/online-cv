@@ -58,44 +58,32 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Jr. Web Developer
+      time: 2017 - 2018
+      company: Logoscorp
+      details: 
+        Worked as a Wordprerss Developer in this institution.
+          - Designed the general layout for wordpress websites.
+          - Used GIT for managing projects.
+          - Used CSS and SASS to build content.
+          - Managed programming languages like CSS and JS.
+          - Offered training to customers of every project related.
+          - Applied SCRUM methology.
+    - role: Web Developer
+      time: 2019-2020
+      company: Instituto Universitario De Seguros
+      details: 
+            - I did my intership at this institution. 
+    - role: Wordpress Web Developer
+      time: 2018 
+      company: Think Different
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
+        Worked as a Wordpress Developer for this company.
+            - Establish the layout for Wordpress Websites.
+            - Setting the initial configuration for incoming projects.
+            - Translation of Websites.
+            - Usage of kanban methodology for working environent.
+projects: |
     title: Projects
     intro: >
       You can list your side projects or open source libraries in this
@@ -122,7 +110,7 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
+publications: |
     title: Publications
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
@@ -148,23 +136,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
       - name: Javascript & jQuery
-        level: 98%
+        level: 60%
 
       - name: Angular
-        level: 98%
+        level: 45%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 70%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Laravel
+        level: 50%
 
-      - name: Sketch & Photoshop
+      - name: Relational Databases
         level: 60%
+        
+      - name:  PHP
+        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by Marcos López. Theme By <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
