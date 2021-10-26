@@ -78,6 +78,19 @@ experiences:
           - Setting the initial configuration for incoming projects
           - Translation of Websites
           - Usage of kanban methodology for working environent
+projects:
+    title: Projects
+    intro: >
+      These are some of the projects I have been involved into
+    assignments:
+      - title: "Los Federales",
+        link: "https://federales.com.ve/"
+      - title: "Instituto Universitario De Seguros",
+        link: "http://institutouniversitariodeseguros.co.ve/"
+      - title: "Traunmuntana Flow"
+        link: "https://www.tramuntanaflow.com/"
+      - title: "Flor De Flors"
+        link: "https://flordeflors.com/"
 skills:
     title: Skills &amp; Proficiency
 
