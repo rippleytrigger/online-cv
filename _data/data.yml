@@ -85,12 +85,25 @@ projects:
     assignments:
       - title: "Los Federales"
         link: "https://federales.com.ve/"
+        tagline: "A responsive website made by me to promote the services of the company Asesoramiento Los Federales 3000, C.A"
       - title: "Instituto Universitario De Seguros"
         link: "http://institutouniversitariodeseguros.co.ve/"
+        tagline: "A responsive website made by me to promote the services of the company Instituto Universitario De Seguros"
       - title: "Traunmuntana Flow"
         link: "https://www.tramuntanaflow.com/"
+        tagline: "I made some require changes with the company Think Different, to fullfil some requirements in this website"
       - title: "Flor De Flors"
         link: "https://flordeflors.com/"
+        tagline: "I made some require changes with the company Think Different, to fullfil some requirements in this website"
+      - title: "Boxi"
+        link: "https://boxi.es/"
+        tagline: "I design the website of the spanish portal boxi.es"
+      - title: "Seguros Universitas"
+        link: "https://www.segurosuniversitas.com/"
+        tagline: "I made the website of Seguros Universitas when I was working with Logoscorp"
+      - title: "Dr Kids"
+        link: "https://drkids.com/"
+        tagline: "I made the first version of the portal of Dr Kids"
 skills:
     title: Skills &amp; Proficiency
 
